@@ -15,7 +15,7 @@ git clone git@github.com:SiddhantTotade/listen.git.
 ```shell
 cd listen_app
 ```
-+ Open a terminal in the `listen` and type command.
++ Open a terminal in the `listen_app` and type command.
 ```shell
 npm install
 ```
