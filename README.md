@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://github.com/SiddhantTotade/spotify/blob/main/app_images/listen_logo.png" />
+  <img src="https://github.com/SiddhantTotade/spotify" />
 </div>
 
 # Getting Started
@@ -8,4 +8,17 @@
 + Clone the repo in your PC or Laptop.
 ```shell
 git clone git@github.com:SiddhantTotade/cergen.git.
+```
++ Change directory to spotify.
+```shell
+cd spotify
+```
+
++ Open a terminal in the `spotify` and type command.
+```shell
+npm install
+```
++ After installation, type command.
+```shell
+npm run dev
 ```
