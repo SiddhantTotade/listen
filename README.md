@@ -11,7 +11,7 @@ git clone git@github.com:SiddhantTotade/spotify.git.
 ```
 + Change directory to spotify.
 ```shell
-cd spotify
+cd spotify_app
 ```
 
 + Open a terminal in the `spotify` and type command.
