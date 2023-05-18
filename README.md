@@ -34,3 +34,8 @@ http://localhost:3000/
 + After creating, copy the `X-RapidAPI-Key`
 + Create a `.env` file in `src` directory and paste the following code in `.env` file.
 `VITE_SHAZAM_CORE_RAPID_API_KEY=API_KEY`
+
+## Project Images
+<div align="center" gap="10px" display="flex">
+<img src="https://github.com/SiddhantTotade/listen/blob/main/app_images/listen_1.png" width="400px" />
+<div/>
