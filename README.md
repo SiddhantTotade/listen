@@ -4,7 +4,7 @@
 
 # About the project
 
-Listen is a web music player. With this the user can listen any music he wants around the world. This application has music selection category along with the top artists and type of music the user wants and also has the search part where a person can search any song or any singer he wants. This application is using a music API which delivers the music. Because it is a API so, it only deliver songs only for 1.5 - 2 min not the full length of songs. For full length of songs the user needs to buy the subscription. Overall the application is OK and working fine.
+Listen is a web music player. With this the user can listen any music he wants around the world. This application has music selection category along with the top artists and type of music the user wants and also has the search part where a person can search any song or any singer he wants. This application is using `Rapid API - Shazam Core` which delivers the music. Because it is a API so, it only deliver songs only for 1.5 - 2 min not the full length of songs. Overall the application is OK and working fine.
 
 # Getting Started
 
