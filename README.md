@@ -7,7 +7,7 @@
 #### First - Running Django Server
 + Clone the repo in your PC or Laptop.
 ```shell
-git clone git@github.com:SiddhantTotade/cergen.git.
+git clone git@github.com:SiddhantTotade/spotify.git.
 ```
 + Change directory to spotify.
 ```shell
