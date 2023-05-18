@@ -8,7 +8,6 @@ Listen is a web music player. With this the user can listen any music he wants a
 
 # Getting Started
 
-#### First - Running Django Server
 + Clone the repo in your PC or Laptop.
 ```shell
 git clone git@github.com:SiddhantTotade/listen.git.
