@@ -29,7 +29,7 @@ http://localhost:3000/
 ```
 
 ## Configure the application
-+ Visit the below link `https://rapidapi.com/tipsters/api/shazam-core`
++ Visit the link `https://rapidapi.com/tipsters/api/shazam-core`
 + Create an account
 + After creating, copy the `X-RapidAPI-Key`
 + Create a `.env` file in `src` directory and paste the following code.
