@@ -13,7 +13,6 @@ git clone git@github.com:SiddhantTotade/listen.git.
 ```shell
 cd listen_app
 ```
-
 + Open a terminal in the `spotify` and type command.
 ```shell
 npm install
@@ -21,4 +20,8 @@ npm install
 + After installation, type command.
 ```shell
 npm run dev
+```
++ Open application
+```shell
+http://localhost:3000/
 ```
