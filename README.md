@@ -2,6 +2,10 @@
   <img src="https://github.com/SiddhantTotade/spotify/blob/main/app_images/listen_logo.png" />
 </div>
 
+# About the project
+
+Listen is a web music player. With this user can listen any music he wants around the world. This application has music selection category along with the top artists and type of music the user wants and also ha the search part where a person can search any music or any singer he wants. This application is using a music API which delivers the music. Because it is a API so, it only deliver songs only for 1.5 - 2 min not the full length of songs. For full length of songs the person needs to buy the subscription. Overall the application is OK and working fine.
+
 # Getting Started
 
 #### First - Running Django Server
