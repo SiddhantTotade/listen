@@ -28,7 +28,7 @@ npm run dev
 http://localhost:3000/
 ```
 
-### Configure the application
+## Configure the application
 + Visit the below link
 ```shell
 https://rapidapi.com/tipsters/api/shazam-core
