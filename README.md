@@ -6,6 +6,13 @@
 
 Listen is a web music player. With this the user can listen any music he wants around the world. This application has music selection category along with the top artists and type of music the user wants and also has the search part where a person can search any song or any singer he wants. This application is using `Rapid API - Shazam Core` which delivers the music. Because it is an API, it only delivers songs only for 1.5 - 2 min not the full length of songs. Overall the application is OK and working fine.
 
+### Features of the project
++ Search songs and singers
++ Listen songs
+
+### Technologies used
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp; ![Redux](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) &nbsp; ![Vite](	https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
 # Getting Started
 + Clone the repo in your PC or Laptop.
 ```shell
