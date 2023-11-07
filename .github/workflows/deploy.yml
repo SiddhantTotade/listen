@@ -46,6 +46,7 @@ jobs:
         with:
           # Upload dist repository
           path: "./dist"
+          api_key: ${{ secrets.VITE_SHAZAM_CORE_RAPID_API_KEY}}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
