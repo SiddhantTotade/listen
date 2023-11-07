@@ -1,11 +1,8 @@
 {
   "name": "elagant-music-app",
   "private": true,
-  "homepage": "https://SiddhantTotade.github.io/",
   "version": "0.0.0",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -b deploy",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
