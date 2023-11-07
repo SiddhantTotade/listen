@@ -46,7 +46,9 @@ jobs:
         with:
           # Upload dist repository
           path: "./dist"
-          api_key: ${{ secrets.VITE_SHAZAM_CORE_RAPID_API_KEY}}
+      - name: Set Environment Variables
+        run: |
+          echo "export API_KEY=${{ secrets.VITE_SHAZAM_CORE_RAPID_API_KEY }}" >> $GITHUB_ENV
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
